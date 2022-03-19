@@ -1,0 +1,37 @@
+
+[shoulderPets]
+	#Jump in place to dismount shoulder pets
+	smartDismount = true
+	#Vanilla is true
+	dismountInWater = false
+	#Vanilla is true
+	dismountUnderWater = true
+	#Vanilla is true
+	dismountWhileFlying = false
+	#Vanilla is 0.5
+	#Range: 4.9E-324 ~ 1.7976931348623157E308
+	dismountFallDistance = 4.0
+	#Vanilla is 0
+	#Range: 4.9E-324 ~ 1.7976931348623157E308
+	dismountDamageThreshold = 0.5
+
+[follow]
+	#When you travel through portals, teleport your pets and leashed animals as well
+	portalTeleportingPets = true
+	#Max number of animals that will be teleported with you
+	#-1 = Use the value of maxEntityCramming gamerule
+	#Range: > -2147483648
+	portalMaxTeleportedPets = -1
+	#Range: 4.9E-324 ~ 1.7976931348623157E308
+	petWontChangeDimensionUnlessOwnerIsNearbyRadius = 3.0
+	petForceTeleportingIfFollowFailed = true
+
+[injuredStatus]
+	#Range: 4.9E-324 ~ 1.7976931348623157E308
+	healthRatio = 0.20000000298023224
+	stopAttacking = true
+	teleportToOwner = true
+
+[combat]
+	betterSweepingEdgeEffect = true
+
