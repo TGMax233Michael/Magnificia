@@ -34,7 +34,7 @@ lighting:true
 dotsStyle:0
 dotNameScale:1.0
 compassOverWaypoints:false
-showBiome:false
+showBiome:true
 showFlowers:true
 keepWaypointNames:true
 waypointsDistanceExp:0
