@@ -1,0 +1,92 @@
+To refresh this file, delete it and run /reload command again! Last updated: Apr 4, 2022, 11:03:18 AM
+
+#forge:lubricant
+- pneumaticcraft:lubricant
+
+#forge:crude_oil
+- pneumaticcraft:oil
+
+#minecraft:water
+- minecraft:water
+- minecraft:flowing_water
+- #undergarden:virulent
+
+#forge:biodiesel
+- pneumaticcraft:biodiesel
+- immersiveengineering:biodiesel
+
+#forge:milk
+- minecraft:milk?
+- minecraft:flowing_milk?
+
+#forge:herbicide
+- immersiveengineering:herbicide
+
+#pneumaticcraft:seismic_sensor_interesting
+- #forge:crude_oil
+
+#forge:plantoil
+- pneumaticcraft:vegetable_oil
+- immersiveengineering:plantoil
+
+#minecraft:lava
+- minecraft:lava
+- minecraft:flowing_lava
+
+#biomesoplenty:blood
+- biomesoplenty:blood
+- biomesoplenty:flowing_blood
+
+#forge:ethanol
+- pneumaticcraft:ethanol
+- immersiveengineering:ethanol
+
+#forge:redstone_acid
+- immersiveengineering:redstone_acid
+
+#forge:concrete
+- immersiveengineering:concrete
+
+#forge:potion
+- immersiveengineering:potion
+
+#forge:gasoline
+- pneumaticcraft:gasoline
+
+#undergarden:virulent
+- undergarden:virulent_mix_source
+- undergarden:virulent_mix_flowing
+
+#forge:experience
+- sophisticatedcore:xp_still
+- pneumaticcraft:memory_essence
+
+#forge:diesel
+- pneumaticcraft:diesel
+
+#ae2:blacklisted/annihilation_plane
+
+#pneumaticcraft:yeast_culture
+- pneumaticcraft:yeast_culture
+
+#immersiveengineering:drill_fuel
+- #forge:biodiesel
+
+#pneumaticcraft:plastic
+- pneumaticcraft:plastic
+
+#pneumaticcraft:etching_acid
+- pneumaticcraft:etching_acid
+
+#forge:kerosene
+- pneumaticcraft:kerosene
+
+#decorative_blocks:thatch
+- decorative_blocks:thatch
+- decorative_blocks:flowing_thatch
+
+#forge:creosote
+- immersiveengineering:creosote
+
+#forge:lpg
+- pneumaticcraft:lpg
