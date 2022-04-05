@@ -12,7 +12,7 @@ The first verson will be soon released
 
 ## Curseforge App (Windows / macOS / *Linux [Coming soon]*)
 
-1.Download [Curseforge App](https://download.curseforge.com)
+1.Download [**Curseforge App**](https://download.curseforge.com)
 
 2.Choose Minecraft
 
@@ -26,7 +26,7 @@ The first verson will be soon released
 
 ## Multimc (Windows / macOS / Linux)
 
-1.Download [Multimc](https://multimc.org)
+1.Download [**Multimc**](https://multimc.org)
 
 2.Setup your Java (Choose Java 17 at Setting --> Java)
 
@@ -40,11 +40,11 @@ The first verson will be soon released
 
 ## Manymc (macOS *[Apple Silicon Player Only and Strongly Recommended!]* )
 
-1.Download [Manymc](https://github.com/MinecraftMachina/ManyMC/releases)
+1.Download [**Manymc**](https://github.com/MinecraftMachina/ManyMC/releases)
 
-2.Download [Azul Java 17 for Arm ](https://www.azul.com/downloads/?version=java-17-lts&os=macos&architecture=arm-64-bit&package=jdk)
+2.Download [**Azul Java 17 for Arm**](https://www.azul.com/downloads/?version=java-17-lts&os=macos&architecture=arm-64-bit&package=jdk)
 
-3.Setup your Java (Choose Azul Java 17 for Arm at Setting --> Java)
+3.Setup your Java (Choose **Azul Java 17 for Arm** at Setting --> Java)
 
 4.Click Add Instance Button
 
