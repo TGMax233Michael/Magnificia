@@ -17,7 +17,7 @@ Something wrong occured? Raise an issue at the [**Issues**](https://github.com/T
 # Setup
 
 **[Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)** is required. 
-(Apple Silicon player should follow the recommendation below)
+(Apple Silicon player could follow the recommendation below)
  
  Allocating **4G** for your game is recommended.
 
@@ -66,4 +66,4 @@ Something wrong occured? Raise an issue at the [**Issues**](https://github.com/T
 
 
 # Link
-Will be added soon.
+*Will be added soon.*
