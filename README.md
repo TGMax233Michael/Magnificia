@@ -8,7 +8,7 @@ The first verson will be soon released
  **[Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)** is required. 
  (Apple Silicon player should follow the recommendation below)
  
- Allocated **4G** for your game is recommended.
+ Allocating **4G** for your game is recommended.
 
 ## Curseforge App (Windows / macOS / *Linux [Coming soon]*)
 
