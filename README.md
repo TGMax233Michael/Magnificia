@@ -1,12 +1,19 @@
 # Magnificence
-A Minecraft 1.18.X Forge Modpack 
+A Minecraft 1.18.X Forge Modpack.
 
-The first verson will be soon released
+The first verson will be soon released.
+
+
+
+# Issues
+Something wrong occured? Raise an issue at the [**Issues**](https://github.com/TGMax233Michael/Magnificence/issues) page.
+
+
 
 # Setup
 
- **[Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)** is required. 
- (Apple Silicon player should follow the recommendation below)
+**[Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)** is required. 
+(Apple Silicon player should follow the recommendation below)
  
  Allocating **4G** for your game is recommended.
 
@@ -55,4 +62,4 @@ The first verson will be soon released
 
 
 # Link
-Will be added soon
+Will be added soon.
