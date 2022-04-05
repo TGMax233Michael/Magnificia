@@ -49,5 +49,6 @@ The first verson will be soon released
 
 ## Setup
 
- **Java 17** is required. Allocated 4G for your game is recommended.
+ **Java 17** is required. 
+ Allocated **4G** for your game is recommended.
  
