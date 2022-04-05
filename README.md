@@ -3,7 +3,7 @@ A Minecraft 1.18.x Forge Modpack
 
 Work in progress...
 
-# **How to Play**
+## How to Play
 
 #### Curseforge App (Windows/macOS/*Linux [Coming soon]*)
 
