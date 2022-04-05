@@ -3,15 +3,19 @@ A Minecraft 1.18.X Forge Modpack
 
 The first verson will be soon released
 
-## How to Play
+# Setup
 
-### Curseforge App (Windows/macOS/*Linux [Coming soon]*)
+ **Java 17** is required. 
+ 
+ Allocated **4G** for your game is recommended.
+
+## Curseforge App (Windows / macOS / *Linux [Coming soon]*)
 
 1.Download [Curseforge App](https://download.curseforge.com)
 
 2.Choose Minecraft
 
-3.Click Browse Modpacks Buttom
+3.Choose Browse Modpacks
 
 4.Search "Magnificence"
 
@@ -19,7 +23,7 @@ The first verson will be soon released
 
 
 
-### Multimc (Windows/macOS/Linux)
+## Multimc (Windows / macOS / Linux)
 
 1.Download [Multimc](https://multimc.org)
 
@@ -33,7 +37,7 @@ The first verson will be soon released
 
 
 
-### Manymc (macOS *[Apple Silicon Only!]*)
+### Manymc (macOS *[Apple Silicon Only!]* )
 
 1.Download [Manymc](https://github.com/MinecraftMachina/ManyMC/releases)
 
@@ -46,9 +50,3 @@ The first verson will be soon released
 5.Search "Magnificence"
 
 6.Waiting for downloading and start your Game
-
-## Setup
-
- **Java 17** is required. 
- Allocated **4G** for your game is recommended.
- 
