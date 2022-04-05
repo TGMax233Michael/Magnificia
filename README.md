@@ -38,7 +38,7 @@ The first verson will be soon released
 
 
 
-### Manymc (macOS *[Apple Silicon Player Only and Strongly Recommended!]* )
+## Manymc (macOS *[Apple Silicon Player Only and Strongly Recommended!]* )
 
 1.Download [Manymc](https://github.com/MinecraftMachina/ManyMC/releases)
 
@@ -51,3 +51,8 @@ The first verson will be soon released
 5.Search "Magnificence"
 
 6.Waiting for downloading and start your Game
+
+
+
+# Link
+Will be added soon
