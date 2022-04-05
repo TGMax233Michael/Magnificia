@@ -1,5 +1,9 @@
 # Magnificence
-A Minecraft 1.18.X Forge Modpack.
+A Minecraft 1.18.X Forge Modpack with a high degree of freedom to build **Whatever You Want**.
+
+This is the issues tracker for the modpack **Magnificence**. 
+
+(*Ok, I'm a noob in it. Please forgive my ignorance, I will try my best to learn about this :3*)
 
 The first verson will be soon released.
 
