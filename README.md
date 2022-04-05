@@ -5,7 +5,8 @@ The first verson will be soon released
 
 # Setup
 
- **Java 17** is required. 
+ **[Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)** is required. 
+ (Apple Silicon player should follow the recommendation below)
  
  Allocated **4G** for your game is recommended.
 
@@ -37,7 +38,7 @@ The first verson will be soon released
 
 
 
-### Manymc (macOS *[Apple Silicon Only!]* )
+### Manymc (macOS *[Apple Silicon Player Only and Strongly Recommended!]* )
 
 1.Download [Manymc](https://github.com/MinecraftMachina/ManyMC/releases)
 
