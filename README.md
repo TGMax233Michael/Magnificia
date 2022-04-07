@@ -1,5 +1,5 @@
-# Magnificence
-A Minecraft 1.18.X Forge Modpack with a high degree of freedom to build **Whatever You Want**.
+# Magnificence (WIP)
+A Minecraft 1.18.X Forge Modpack with a high degree of freedom to **Creations**.
 
 This is the issues tracker for the modpack **Magnificence**. 
 
