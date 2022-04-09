@@ -14,54 +14,8 @@ Something wrong occured? Raise an issue at the [**Issues**](https://github.com/T
 
 
 
-# Setup
-
-**[Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)** is required. 
-(Apple Silicon player could follow the recommendation below)
- 
- Allocating **4G** for your game is recommended.
-
-## Curseforge App (Windows / macOS / *Linux [Coming soon]*)
-
-1.Download [**Curseforge App**](https://download.curseforge.com)
-
-2.Choose Minecraft
-
-3.Choose Browse Modpacks
-
-4.Search "Magnificence"
-
-5.Waiting for downloading and start your Game
-
-
-
-## Multimc (Windows / macOS / Linux)
-
-1.Download [**Multimc**](https://multimc.org)
-
-2.Setup your Java (Choose Java 17 at Setting --> Java)
-
-3.Click Add Instance Button
-
-4.Search "Magnificence"
-
-5.Waiting for downloading and start your Game
-
-
-
-## Manymc (macOS *[Apple Silicon Player Only and Strongly Recommended!]* )
-
-1.Download [**Manymc**](https://github.com/MinecraftMachina/ManyMC/releases)
-
-2.Download [**Azul Java 17 for Arm**](https://www.azul.com/downloads/?version=java-17-lts&os=macos&architecture=arm-64-bit&package=jdk)
-
-3.Setup your Java (Choose **Azul Java 17 for Arm** at Setting --> Java)
-
-4.Click Add Instance Button
-
-5.Search "Magnificence"
-
-6.Waiting for downloading and start your Game
+# Wiki
+**[Here](https://github.com/TGMax233Michael/Magnificence/wiki)** are some tips of Playing this Modpack
 
 
 
