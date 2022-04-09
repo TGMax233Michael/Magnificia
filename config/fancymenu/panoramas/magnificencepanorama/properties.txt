@@ -1,8 +1,0 @@
-type = panorama
-
-panorama-meta {
-  name = magnificenepanorama
-  speed = 1
-  fov = 80.0
-  angle = 25.0
-}
