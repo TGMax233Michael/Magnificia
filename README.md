@@ -66,4 +66,4 @@ Something wrong occured? Raise an issue at the [**Issues**](https://github.com/T
 
 
 # Link
-*Will be added soon.*
+**[Curseforge](https://www.curseforge.com/minecraft/modpacks/magnificence)**
