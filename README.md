@@ -1,4 +1,4 @@
-# Magnificence (WIP)
+# Magnificia (WIP)
 A Minecraft 1.18.X Forge Modpack with a high degree of freedom of **Creations**.
 
 This is the issues tracker for the modpack **Magnificence**. 
