@@ -17,3 +17,20 @@ onEvent('jei.hide.items', event => {
 			 
  }})
  
+ onEvent('jei.hide.items', event => {
+	let ingots = ['iron']  
+	let mod = 'immersiveengineering'
+
+	 for (let i of ingots) {
+		event.hide(`${mod}:${i}_rod`)
+			 
+ }})
+
+ onEvent('jei.hide.items', event => {
+	let ingots = ['iron', 'gold', 'copper']  
+	let mod = 'immersiveengineering'
+
+	 for (let i of ingots) {
+		event.hide(`${mod}:${i}_plate`)
+			 
+ }})
