@@ -1,6 +1,6 @@
 # 0.2.0 Changelog
 
-### Mods Added
+## Mods Added
 
 [**Blue Skies**](https://www.curseforge.com/minecraft/mc-mods/blue-skies)
 
@@ -37,7 +37,7 @@
 
 
 
-### Mods Removed
+## Mods Removed
 
 **Comfort ( Replaced by Druidcraft's Bedroll )**
 
@@ -48,7 +48,7 @@
 
 
 
-### Changed & Fixed
+## Changed & Fixed
 
 Some little Changes
 
