@@ -12,7 +12,7 @@ onEvent('recipes', function (event) {
 
 	var outputRemove = [
 
-		// Immersive Engineering Remove
+		// Immersive Engineering 
 		'immersiveengineering:sword_steel',
 		'immersiveengineering:pickaxe_steel',
 		'immersiveengineering:shovel_steel',
@@ -31,8 +31,10 @@ onEvent('recipes', function (event) {
 		'immersiveengineering:stick_aluminum',
 		'immersiveengineering:stick_iron',
 
+		// Mekanism Machines
+		'mekanism:quantum_entangloporter',
 
-		// Mekanism Tools Remove
+		// Mekanism Tools 
 		'mekanismtools:lapis_lazuli_sword',
 		'mekanismtools:lapis_lazuli_pickaxe',
 		'mekanismtools:lapis_lazuli_axe',
@@ -45,7 +47,7 @@ onEvent('recipes', function (event) {
 		'mekanismtools:lapis_lazuli_boots',
 		'mekanismtools:lapis_lazuli_shield',
 
-		// Mekanism Materials Remove
+		// Mekanism Materials
 		'mekanism:block_uranium',
 		'mekanism:block_raw_uranium',
 		'mekanism:uranium_ore',
@@ -71,16 +73,21 @@ onEvent('recipes', function (event) {
 		'mekanism:dust_gold',
 		'mekanism:dust_copper',
 
+		// Energy Meter
+		'energymeter:meter',
+
 		// Create
 		'create:powdered_obsidian',
 
-		// Create Addition
+		// Create Additions Materials
 		'createaddition:iron_rod',
 		'createaddition:copper_wire',
 
-		// Create Deco
-		'createdeco:zinc_sheet'
+		// Create Additions Machines
+		'createaddition:heater',
 
+		// Create Deco
+		'createdeco:zinc_sheet',
 
 
 	].forEach(function (remove) {
