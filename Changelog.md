@@ -1,3 +1,57 @@
+# 0.3.0 Changelog
+
+## Mods Added
+
+[**Lucent**](https://www.curseforge.com/minecraft/mc-mods/lucent)
+
+[**Rough Enough Professions**](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-professions-rep)
+
+[**Falling Leaves**](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge)
+
+[**Mini Coal**](https://www.curseforge.com/minecraft/mc-mods/minicoal) (Thanks For Pyrolyzed’s Suggestions)
+
+[**Curious Lights**](https://www.curseforge.com/minecraft/mc-mods/curious-lights)
+
+[**Fruit Trees**](https://www.curseforge.com/minecraft/mc-mods/fruit-trees)
+
+[**Radium Reforged**](https://www.curseforge.com/minecraft/mc-mods/radium-reforged)
+
+
+
+
+## Mods Removed
+
+Starter Kit
+
+Collective
+
+
+
+
+## Changed & Fixed
+
+Made Compatibility of Mekanism for Excavated Variants
+
+Changed Immersive Engineering’s Ore Generations
+
+Changed Biome O’ Plenty’s Biomes Generations
+
+Simplified Kubejs Script
+
+Changed Some Recipes
+
+
+
+
+## Forge Version
+
+40.0.52
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
 # 0.2.0 Changelog
 
 ## Mods Added
