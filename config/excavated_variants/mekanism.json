@@ -1,0 +1,51 @@
+{
+  "mod_id": "mekanism",
+  "provided_stones": [],
+  "provided_ores": [
+    {
+      "id": "fluorite_ore",
+      "stone": [
+        "stone",
+        "deepslate"
+      ],
+      "texture_location": "mekanism:textures/block/fluorite_ore.png",
+      "block_id": [
+        "mekanism:fluorite_ore"
+      ],
+      "en_name": "Fluorite Ore",
+      "types": [
+        "stone"
+      ]
+    },
+    {
+      "id": "tin_ore",
+      "stone": [
+        "stone",
+        "deepslate"
+      ],
+      "texture_location": "mekanism:textures/block/tin_ore.png",
+      "block_id": [
+        "mekanism:tin_ore"
+      ],
+      "en_name": "Tin Ore",
+      "types": [
+        "stone"
+      ]
+    },
+    {
+      "id": "osmium_ore",
+      "stone": [
+        "stone",
+        "deepslate"
+      ],
+      "texture_location": "mekanism:textures/block/osmium_ore.png",
+      "block_id": [
+        "mekanism:osmium_ore"
+      ],
+      "en_name": "Osmium Ore",
+      "types": [
+        "stone"
+      ]
+    }
+  ]
+}
