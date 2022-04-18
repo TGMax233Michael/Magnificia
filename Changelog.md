@@ -47,7 +47,8 @@ Changed Some Recipes
 
 40.0.52
 
- 
+
+[Click to see full Modlist](https://github.com/TGMax233Michael/Magnificia/blob/main/modlist/Modlist.md)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -93,11 +94,11 @@ Changed Some Recipes
 
 ## Mods Removed
 
-**Comfort ( Replaced by Druidcraft's Bedroll )**
+Comfort ( Replaced by Druidcraft's Bedroll )
 
-**Chalk ( Useless )**
+Chalk ( Useless )
 
-**JEI & Addons ( Replace by REI, because of a lots of bugs of it )** 
+JEI & Addons ( Replace by REI, because of a lots of bugs of it )
 
 
 
@@ -117,5 +118,3 @@ Some little Changes
 
 
 [Click to see full Modlist](https://github.com/TGMax233Michael/Magnificia/blob/main/modlist/Modlist.md)
-
-
