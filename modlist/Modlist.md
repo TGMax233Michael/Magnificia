@@ -98,6 +98,8 @@
 
 •	Connectible Chains [FORGE] (by lilypuree)
 
+• Connectivity (someaddon)
+
 •	Controlling (by Jaredlll08)
 
 •	Create (by simibubi)
@@ -139,6 +141,8 @@
 •	Druidcraft (by VulpTheHorseDog)
 
 •	Dynamic Asset Generator (by lukebemish)
+
+• Dynamic Lights (by atomicstrykergrumpy)
 
 •	Ecologics (by SameDifferent)
 
@@ -220,7 +224,7 @@
 
 •	Inventory HUD+ (by dmitrylovin)
 
-•	ItemPhysic Lite (by CreativeMD)
+•	ItemPhysic Full (by CreativeMD)
 
 •	Jade 🔍 (by Snownee_)
 
@@ -244,7 +248,7 @@
 
 •	LibX (by noeppinoeppi)
 
-•	Lucent (by ModdingLegacy)
+• Login Protection (by someaddon)
 
 •	Macaw's Bridges - Biome O' Plenty (by samlegamer_)
 
@@ -361,6 +365,8 @@
 •	spark (by Iucko)
 
 •	Starlight (Forge) (by Spottedstar)
+
+• Serene Seasons (by TheAdubbz)
 
 •	Step (by ModdingLegacy)
 
