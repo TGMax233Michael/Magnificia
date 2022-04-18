@@ -49,7 +49,6 @@ Changed Some Recipes
 
 
 
-[Click to see full Modlist](https://github.com/TGMax233Michael/Magnificia/blob/main/modlist/Modlist.md)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -114,8 +113,3 @@ Some little Changes
 ## Forge Version
 
 40.0.46
-
-
-
-
-[Click to see full Modlist](https://github.com/TGMax233Michael/Magnificia/blob/main/modlist/Modlist.md)
