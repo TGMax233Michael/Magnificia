@@ -3,19 +3,19 @@
 
 ## Mods Added
 
-[Nether’s Delight](https://www.curseforge.com/minecraft/mc-mods/nethers-delight)
+[**Nether’s Delight**](https://www.curseforge.com/minecraft/mc-mods/nethers-delight)
 
-[Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
+[**Serene Seasons**](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
 
-[Login Protection](https://www.curseforge.com/minecraft/mc-mods/login-protection)
+[**Login Protection**](https://www.curseforge.com/minecraft/mc-mods/login-protection)
 
-[Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity)
+[**Connectivity**](https://www.curseforge.com/minecraft/mc-mods/connectivity)
 
-[ItemPhysic Full](https://www.curseforge.com/minecraft/mc-mods/itemphysic)
+[**ItemPhysic Full**](https://www.curseforge.com/minecraft/mc-mods/itemphysic)
 
-[Dynamic Light](https://www.curseforge.com/minecraft/mc-mods/dynamic-lights)
+[**Dynamic Light**](https://www.curseforge.com/minecraft/mc-mods/dynamic-lights)
 
-[The Conjurer](https://www.curseforge.com/minecraft/mc-mods/the-conjurer)
+[**The Conjurer**](https://www.curseforge.com/minecraft/mc-mods/the-conjurer)
 
  
 
