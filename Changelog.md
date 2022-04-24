@@ -1,3 +1,65 @@
+# 0.5.0 Changelog
+
+## Mods Added
+
+[**Winter Overhaul**](https://www.curseforge.com/minecraft/mc-mods/winter-overhaul)
+
+[**Ars Elemental**](https://www.curseforge.com/minecraft/mc-mods/ars-elemental-elemental-spell-foci)
+
+[**Villager Names**](https://www.curseforge.com/minecraft/mc-mods/villager-names)
+
+[**Collective**](https://www.curseforge.com/minecraft/mc-mods/collective)
+
+[**Better Fps - Render Distance**](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance)
+
+[**Spirit**](https://www.curseforge.com/minecraft/mc-mods/spirit)
+
+[**Biome Makeover**](https://www.curseforge.com/minecraft/mc-mods/biome-makeover)
+
+[**Compat Makeover**](https://www.curseforge.com/minecraft/mc-mods/compat-makeover)
+
+ 
+
+## Mods Removed 
+
+Dynamic Light
+
+Curios Light
+
+Fast Suit
+
+Apotheosis
+
+ 
+
+## Changed & Fixed
+
+Some Little Changes
+
+ 
+
+## Forge Version
+
+40.1.0
+
+ 
+
+## Known Issues
+
+Excavated Variants Loading on Creative Slot Causing Game Crash (Waiting For Updated)
+
+ 
+ 
+## Plan
+
+Quest or Patchouli Guide Book (Will be finished at the 1.0.0 )
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 # 0.4.0 Changelog
 
 
