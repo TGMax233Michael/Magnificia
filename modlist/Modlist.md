@@ -12,8 +12,6 @@
 
 •	AmbientSounds 5 (by CreativeMD)
 
-•	Apotheosis (by Shadows_of_Fire)
-
 •	AppleSkin (by squeek502)
 
 •	Applied Energistics 2 (by AlgorithmX2)
@@ -118,8 +116,6 @@
 
 •	Curious Armor Stands (by ochotonida)
 
-•	Curious Lights (by TheIllusiveC4)
-
 •	Dark Paintings (by DarkhaxDev)
 
 •	Dark Utilities (by DarkhaxDev)
@@ -139,8 +135,6 @@
 •	Drawers Tooltip (by Snownee_)
 
 •	Druidcraft (by VulpTheHorseDog)
-
-•	Dynamic Asset Generator (by lukebemish)
 
 • Dynamic Lights (by atomicstrykergrumpy)
 
@@ -177,8 +171,6 @@
 •	Fast Leaf Decay (by olafskiii)
 
 •	FastFurnace (by Shadows_of_Fire)
-
-•	FastSuite (by Shadows_of_Fire)
 
 •	FastWorkbench (by Shadows_of_Fire)
 
