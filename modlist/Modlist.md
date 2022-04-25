@@ -22,6 +22,8 @@
 
 •	Architectury API (Forge) (by shedaniel)
 
+• Ars Elemental (by Alexth99)
+
 •	Ars Nouveau (by baileyholl2)
 
 •	Artifacts (by ochotonida)
@@ -42,9 +44,13 @@
 
 •	Better Biome Blend (by FionaTheMortal)
 
+•	BetterF3 (by cominixo)
+
+• Better Fps - Render Distance[Forge] (by someaddon)
+
 •	Better Third Person (by Socolio)
 
-•	BetterF3 (by cominixo)
+• Biome Makeover (by Lemonszz)
 
 •	Biomes O' Plenty (by Forstride)
 
@@ -85,6 +91,10 @@
 •	Cloth Config API (Forge) (by shedaniel)
 
 •	Clumps (by Jaredlll08)
+
+• Collective (Forge) (by Serilum)
+
+• Compat Makeover (by phoenixknight___)
 
 •	Companion 🐕 (Forge) (by Snownee_)
 
@@ -356,6 +366,8 @@
 
 •	spark (by Iucko)
 
+• Spirit (by CodexAdrian)
+
 •	Starlight (Forge) (by Spottedstar)
 
 • Serene Seasons (by TheAdubbz)
@@ -392,7 +404,11 @@
 
 •	Valhelsia Structures (by ValhelsiaTeam)
 
+• Villager Names (Forge) (by Serilum)
+
 •	Waystones (by BlayTheNinth)
+
+• Winter Overhaul (by joosh_7889)
 
 •	Xaero's Minimap (by xaero96)
 
